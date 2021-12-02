@@ -1,0 +1,25 @@
+$color_fuente: #08ebeb;
+$color_primario: #000000;
+
+
+.menu{
+    background: $color_fuente;
+}
+
+.menu li a {
+    background: white;
+    color: $color_fuente;
+}
+
+
+.menu a:hover {
+    color: white;
+    background: $color_fuente;
+  }
+
+  footer {
+    background: rgba(74, 228, 202, 0.719);
+  }
+
+
+   
